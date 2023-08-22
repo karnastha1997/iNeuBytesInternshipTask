@@ -285,66 +285,6 @@ body{
     right: 10px;
 }
 
-
-
-#sm-banner{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-#sm-banner .banner-box{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    /* text-align: center; */
-    background-image: url("../images/banner1.jpg");
-    min-width: 670px ;
-    height: 50vh;
-    background-size: cover;
-    background-position: center;
-    padding: 30px; 
-}
-
-#sm-banner h4{
-    color: #fff;
-    font-size: 20px;
-    font-weight: 300;
-}
-
-#sm-banner h2{
-    color: #fff;
-    font-size: 28px;
-    font-weight: 800;
-}
-
-#sm-banner span{
-    color: #fff;
-    font-size: 14px;
-    font-weight: 500;
-    padding-bottom: 15px;
-}
-
-#sm-banner .banner-box:hover button{
-    background: #088178;
-    border: 1px solid #088178;
-}
-
-#sm-banner .banner-box2{
-    
-    background-image: url("../images/banner3.jpg");
-}
-#banner3{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    padding: 0 80px; 
-}
-
-
-
-
 /* contact page */
 
 #page-header{
